@@ -1,0 +1,1 @@
+pyinstaller -F -i LOGO.ico ".\Remove_Annotation.py" -n "註解剔除器" --onefile
