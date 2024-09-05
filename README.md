@@ -1,7 +1,11 @@
 # Remove_Annotation
 ## 註解剔除器
 
+Shell 版本:
 ![Remove Annotation cover](https://github.com/zz22558822/Remove_Annotation/blob/main/img/Remove_Annotation.png)
+
+GUI 版本:
+![Remove Annotation GUI cover](https://github.com/zz22558822/Remove_Annotation/blob/main/img/Remove_Annotation_GUI.png)
 
 ---
 
