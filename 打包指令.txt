@@ -1,1 +1,2 @@
 pyinstaller -F -i LOGO.ico ".\Remove_Annotation.py" -n "註解剔除器" --onefile
+pyinstaller -F -w --add-data ".\LOGO.ico;img" -i ".\LOGO.ico" ".\Remove_Annotation_GUI.py" -n "註解剔除器 GUI"
